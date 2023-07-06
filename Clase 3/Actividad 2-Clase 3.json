@@ -1,0 +1,51 @@
+{
+  "equipo": "Shadows's Developers",
+  "numero_equipo": 10,
+  "integrantes": [
+    {
+      "nombre": "Juan",
+      "apellido": "Pérez",
+      "discord": "juanperez#1234"
+    },
+    {
+      "nombre": "María",
+      "apellido": "González",
+      "discord": "mariagonzalez#5678"
+    },
+    {
+      "nombre": "Carlos",
+      "apellido": "Sánchez",
+      "discord": "carlossanchez#9012"
+    },
+    {
+      "nombre": "Laura",
+      "apellido": "López",
+      "discord": "lauralopez#3456"
+    },
+    {
+      "nombre": "Pedro",
+      "apellido": "Martínez",
+      "discord": "pedromartinez#7890"
+    },
+    {
+      "nombre": "Ana",
+      "apellido": "Ramírez",
+      "discord": "anaramirez#2345"
+    },
+    {
+      "nombre": "Diego",
+      "apellido": "Hernández",
+      "discord": "diegohernandez#6789"
+    },
+    {
+      "nombre": "Sofía",
+      "apellido": "Torres",
+      "discord": "sofiatorres#0123"
+    },
+    {
+      "nombre": "Leonardo",
+      "apellido": "Solán",
+      "discord": "Aiorias21#3128"
+    }
+  ]
+}

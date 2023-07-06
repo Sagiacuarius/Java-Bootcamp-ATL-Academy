@@ -1,0 +1,23 @@
+{
+  "preguntas": [
+    {
+      "enunciado": "¿Cuál es la capital de Canadá?",
+      "opciones": ["Vancouver", "Ottawa", "Toronto", "Quebec"],
+      "respuestaCorrecta": 1,
+      "explicacion": "La respuesta correcta es Ottawa, ya que es la capital de Canadá."
+    },
+    {
+      "enunciado": "¿En qué año se produjo el Mayo Francés?",
+      "opciones": ["1789", "1850", "1968", "1997"],
+      "respuestaCorrecta": 2,
+      "explicacion": "La respuesta correcta es 1968, cuando se inició la protesta en La Sorbona."
+    },
+    {
+      "enunciado": "¿Cuál es el animal terrestre más grande?",
+      "opciones": ["Elefante", "León", "Rinoceronte", "Jirafa"],
+      "respuestaCorrecta": 3,
+      "explicacion": "La respuesta correcta es la jirafa, ya que es el animal terrestre más alto y grande."
+    }
+  ]
+}
+
